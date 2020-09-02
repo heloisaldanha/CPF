@@ -1,2 +1,2 @@
 # CPF
-CPF generator and validator
+How create a CPF number? How validate if that number is valid or invalid?
